@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d5cade0-3300-4953-96a4-543e1ad053c6" name="Changes" comment="18th APITesting Framework" />
+    <list default="true" id="6d5cade0-3300-4953-96a4-543e1ad053c6" name="Changes" comment="18th APITesting Framework">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/testingacademy/modules/PayloadManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/testingacademy/modules/PayloadManager.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734543066061</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="18th APITesting Framework">
+      <option name="closed" value="true" />
+      <created>1734543202566</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734543202566</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
