@@ -1,15 +1,14 @@
 package com.testingacademy.modules;
 
 import com.google.gson.Gson;
-import com.testingacademy.pojos.Booking;
-import com.testingacademy.pojos.BookingRespons;
-import com.testingacademy.pojos.Bookingdates;
+import com.testingacademy.pojos.*;
 
 public class PayloadManager {           //serialization - deserialization
 
     // Converting the JAVA object to the String
 
     Gson gson;
+
     public String createPayloadBookingAsString() {
 
         Booking booking = new Booking();
@@ -34,8 +33,6 @@ public class PayloadManager {           //serialization - deserialization
     }
 
 
-
-
     // Converting the String to the JAVA Object
     public BookingRespons bookingResponseJava(String responseString) {
         gson = new Gson();
@@ -43,12 +40,49 @@ public class PayloadManager {           //serialization - deserialization
         return bookingResponse;
     }
 
-    public void getToken()
-    {
-
+    public Booking getResponseFromJSON(String getResponse) {
+        gson = new Gson();
+        Booking booking = gson.fromJson(getResponse, Booking.class);
+        return booking;
     }
 
 
+    //  ---- Token -----
+    // JAVA to JSON
+    public String setAuthPayload(){
+        Auth auth = new Auth();
+        auth.setUsername("admin");
+        auth.setPassword("password123");
+        gson = new Gson();
+        String jsonPayloadString = gson.toJson(auth);
+        System.out.println("Payload set to the -> " + jsonPayloadString);
+        return jsonPayloadString;
 
+    }
+
+    // JSON to Java
+    public String getTokenFromJSON(String tokenResponse){
+        gson = new Gson();
+        TokenResponse tokenResponse1  = gson.fromJson(tokenResponse, TokenResponse.class);
+        return tokenResponse1.getToken();
+
+    }
+
+    public String fullUpdatePayloadAsString() {
+        Booking booking = new Booking();
+        booking.setFirstname("Pramod");
+        booking.setLastname("Dutta");
+        booking.setTotalprice(112);
+        booking.setDepositpaid(true);
+
+        Bookingdates bookingdates = new Bookingdates();
+        bookingdates.setCheckin("2024-02-01");
+        bookingdates.setCheckout("2024-02-05");
+        booking.setBookingdates(bookingdates);
+        booking.setAdditionalneeds("Breakfast");
+        return gson.toJson(booking);
+
+
+    }
 }
 
