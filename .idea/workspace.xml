@@ -5,17 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d5cade0-3300-4953-96a4-543e1ad053c6" name="Changes" comment="20th APITesting Framework">
-      <change afterPath="$PROJECT_DIR$/allure-results/06b2f0e0-dd94-4f1c-9239-f4259ccb2dbb-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/40e830fc-dd2f-4832-8784-70a2ac982cbd-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4cb543b5-f56a-4e79-8f88-667277a5292f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c74e2328-afe0-456c-9274-5684aaa749a2-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c85ecb4e-6617-4281-819f-d1cdb5c8346f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/cf7373a1-0102-4ea0-993f-274ce5e9f658-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e56ff6fc-4b31-426b-8817-1cafa35d6cf2-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f6d22636-8c8b-4f0c-a262-fd59ee582ca5-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/fb038bb3-c2e1-4bde-a7f3-d9f475584c79-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0416137a-e44a-4a80-9314-b44331cdec65-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/08192353-83e3-4c4b-b4a2-93aeee7f9fed-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0d037c8d-8496-4695-87d2-7775906dffac-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/16c71055-1b98-4fe8-8386-1ae7f66944cd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/18ecc3e4-363b-4770-a790-4bd6c5d2daea-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1ea5a025-39a4-40a8-bc8c-d64bf755cea4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/38656063-a073-4fa7-8ce9-ab7451f70af9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3bc2e599-231b-4f84-8787-5bd00e5b2595-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3e9db6d9-ada9-4a95-b40a-06ef732f9daf-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/487cea60-7a97-401d-995a-4e5492024554-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4c9ddfda-638c-490a-b8ff-cd4a2876d6aa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4fcf4c6f-841b-43cd-8ed9-d8d50144006f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/527a33bb-55ea-4100-b735-5dbf29a4acf6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6bbbeff9-7d8b-4e0e-9afa-caf540f8d0c4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7435e1c7-8a30-4fb5-b63f-b7521b9d777d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8676a343-f5b4-4836-af65-2bba587426d3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8b379eb6-d74e-43a6-b9ec-8f838bce323f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8f30d86c-aaba-4712-8ab3-90a37bc3f69b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/919b4b30-c4d8-4440-8939-d24beee5fd97-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/97923606-7f1c-4d0b-8c70-81d37fccfe61-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9b60f959-4614-47d6-82c1-7dac7c8f595b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9d2ad206-e793-4995-822b-61799624f1e7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a43ed8c7-185a-4693-bee9-a4f91f06ee89-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ae3ac21c-f490-4ee2-8c91-d4e6331274b7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b2119336-170f-4ef5-a452-4ec0c2b1f806-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b27f4a7e-2085-48a9-9061-8a85366eefaa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b84e662c-5a61-43a5-8f94-7ab7e9a81554-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bdc84c1b-42d8-49d0-af59-b5f65fbf383e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c58ad809-7008-4952-b131-ae0768131a24-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e08e839e-1339-42b1-8020-29f2deacb433-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e099f631-db41-4c0e-96b4-163541b62f2e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e0f4577e-b802-45a0-90ef-190c0227ca4a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e2f7ec08-e5a5-4eb7-a242-4600df29897b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e7369407-88f5-49f2-9e6a-f24ee5301dee-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e7719305-f758-4078-a048-5af2b6504fb2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ea915e8d-d3d6-4eed-9aab-14c2a78155ff-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ec2fdd25-e0ec-4b08-8892-18978e0165fb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fa44e35d-afa2-41cf-916b-d4722dde49c3-container.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/testingacademy/tests/integration/TestIntegrationFlow2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/tests/integration/TestIntegrationFlow2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testingacademy/tests/sample/TestIntegrationSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/tests/sample/TestIntegrationSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng-prod.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng-prod.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +62,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;shobharatheesh&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/shobharatheesh/APITestingFramework&quot;,
+    &quot;accountId&quot;: &quot;7225a18f-a6a5-405b-8567-e6c1ca88e85a&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2qNNpdYMAq7QEmNGBVGOs9lulZ7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -43,18 +88,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/practice/APIAutomation/APIAutomationFramworkATB9x/src/main/java/com/testingacademy/pojos&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.D:/practice/APIAutomation/APIAutomationFramworkATB9x/testng-prod.xml.executor": "Run",
+    "TestNG.D:/practice/APIAutomation/APIAutomationFramworkATB9x/testng-reg.xml.executor": "Run",
+    "TestNG.TestIntegrationSample.executor": "Run",
+    "TestNG.TestIntegrationSample.testVerifyBookingId.executor": "Run",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/practice/APIAutomation/APIAutomationFramworkATB9x",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\practice\APIAutomation\APIAutomationFramworkATB9x\src\main\java\com\testingacademy\pojos" />
@@ -64,10 +120,10 @@
       <recent name="com.testingacademy.tests.integration" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestIntegrationFlow2">
-    <configuration name="D:/practice/APIAutomation/APIAutomationFramworkATB9x/testng-qa.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.D:/practice/APIAutomation/APIAutomationFramworkATB9x/testng-prod.xml">
+    <configuration name="D:/practice/APIAutomation/APIAutomationFramworkATB9x/testng-prod.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationFramworkATB9x" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-qa.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-prod.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -75,16 +131,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestIntegrationFlow" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="D:/practice/APIAutomation/APIAutomationFramworkATB9x/testng-reg.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationFramworkATB9x" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-reg.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/practice/APIAutomation/APIAutomationFramworkATB9x/testng-sanity.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIAutomationFramworkATB9x" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-sanity.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIntegrationSample" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationFramworkATB9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.testingacademy.tests.integration.*" />
+          <option name="PATTERN" value="com.testingacademy.tests.sample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.testingacademy.tests.integration" />
-      <option name="MAIN_CLASS_NAME" value="com.testingacademy.tests.integration.TestIntegrationFlow" />
+      <option name="PACKAGE_NAME" value="com.testingacademy.tests.sample" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.tests.sample.TestIntegrationSample" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -92,52 +168,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestIntegrationFlow2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestIntegrationSample.testVerifyBookingId" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationFramworkATB9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.testingacademy.tests.integration.*" />
+          <option name="PATTERN" value="com.testingacademy.tests.sample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.testingacademy.tests.integration" />
-      <option name="MAIN_CLASS_NAME" value="com.testingacademy.tests.integration.TestIntegrationFlow2" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestIntegrationFlow2.testCreateAndDeleteBooking" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="APIAutomationFramworkATB9x" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.testingacademy.tests.integration.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.testingacademy.tests.integration" />
-      <option name="MAIN_CLASS_NAME" value="com.testingacademy.tests.integration.TestIntegrationFlow2" />
-      <option name="METHOD_NAME" value="testCreateAndDeleteBooking" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestIntegrationFlow.testCreateBooking" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="APIAutomationFramworkATB9x" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.testingacademy.tests.integration.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.testingacademy.tests.integration" />
-      <option name="MAIN_CLASS_NAME" value="com.testingacademy.tests.integration.TestIntegrationFlow" />
-      <option name="METHOD_NAME" value="testCreateBooking" />
+      <option name="PACKAGE_NAME" value="com.testingacademy.tests.sample" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.tests.sample.TestIntegrationSample" />
+      <option name="METHOD_NAME" value="testVerifyBookingId" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -147,13 +188,21 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestIntegrationFlow2" />
-        <item itemvalue="TestNG.TestIntegrationFlow2.testCreateAndDeleteBooking" />
-        <item itemvalue="TestNG.D:/practice/APIAutomation/APIAutomationFramworkATB9x/testng-qa.xml" />
-        <item itemvalue="TestNG.TestIntegrationFlow" />
-        <item itemvalue="TestNG.TestIntegrationFlow.testCreateBooking" />
+        <item itemvalue="TestNG.D:/practice/APIAutomation/APIAutomationFramworkATB9x/testng-prod.xml" />
+        <item itemvalue="TestNG.TestIntegrationSample" />
+        <item itemvalue="TestNG.TestIntegrationSample.testVerifyBookingId" />
+        <item itemvalue="TestNG.D:/practice/APIAutomation/APIAutomationFramworkATB9x/testng-sanity.xml" />
+        <item itemvalue="TestNG.D:/practice/APIAutomation/APIAutomationFramworkATB9x/testng-reg.xml" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -163,6 +212,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734499257794</updated>
+      <workItem from="1737771568036" duration="1715000" />
+      <workItem from="1737975532685" duration="5582000" />
     </task>
     <task id="LOCAL-00001" summary="18th APITesting Framework">
       <option name="closed" value="true" />
@@ -196,8 +247,19 @@
       <option name="project" value="LOCAL" />
       <updated>1734678322257</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="20th APITesting Framework">
+      <option name="closed" value="true" />
+      <created>1734684416194</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1734684416194</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
