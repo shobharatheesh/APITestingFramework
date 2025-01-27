@@ -4,6 +4,8 @@
 
 API Automation Framework with the CRUD of Restful Booker
 
+mvn clean DsuiteXmlFile=testng.xml
+
 `mvn test -Dsurefire.suiteXmlFiles=testng.xml`
 
 <img width="1130" alt="Screenshot 2023-10-31 at 12 25 55 PM" src="https://github.com/PramodDutta/APIAutomationRestAssured/assets/1409610/69f398b3-8798-4fba-a091-3b1e321dcc7d">
