@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d5cade0-3300-4953-96a4-543e1ad053c6" name="Changes" comment="27th 2025 APITesting Framework">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-qa.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-reg.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-sanity.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-smoke.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="6d5cade0-3300-4953-96a4-543e1ad053c6" name="Changes" comment="27th 2025 APITesting Framework" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,6 +76,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\practice\APIAutomation\APIAutomationFramworkATB9x\src\main\java\com\testingacademy\pojos" />
       <recent name="D:\practice\APIAutomation\APIAutomationFramworkATB9x" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\practice\APIAutomation\APIAutomationFramworkATB9x\target" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.testingacademy.tests.integration" />
@@ -186,7 +183,7 @@
       <option name="presentableId" value="Default" />
       <updated>1734499257794</updated>
       <workItem from="1737771568036" duration="1715000" />
-      <workItem from="1737975532685" duration="8231000" />
+      <workItem from="1737975532685" duration="8550000" />
     </task>
     <task id="LOCAL-00001" summary="18th APITesting Framework">
       <option name="closed" value="true" />
@@ -252,7 +249,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738056011769</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="27th 2025 APITesting Framework">
+      <option name="closed" value="true" />
+      <created>1738056341628</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1738056341628</updated>
+    </task>
+    <task id="LOCAL-00010" summary="27th 2025 APITesting Framework">
+      <option name="closed" value="true" />
+      <created>1738056484648</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1738056484648</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

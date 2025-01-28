@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="All Test Suite">
-    <test verbose="2" preserve-order="true" name="APIAutomationFramworkATB9x">
-
+<suite thread-count="1" parallel="tests" name="Suite">
+    <test thread-count="1" parallel="classes" name="Test">
         <classes>
-            <class name="com.testingacademy.tests.sample.TestIntegrationSample">
-            </class>
+            <class name="com.testingacademy.tests.sample.TestIntegrationSample"/>
         </classes>
-    </test>
-</suite>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
