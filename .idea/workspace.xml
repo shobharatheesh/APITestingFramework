@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d5cade0-3300-4953-96a4-543e1ad053c6" name="Changes" comment="27th 2025 APITesting Framework">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,8 +162,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.D:/practice/APIAutomation/APIAutomationFramworkATB9x/testng.xml" />
-        <item itemvalue="TestNG.TestIntegrationFlow2" />
         <item itemvalue="TestNG.TestIntegrationFlow" />
+        <item itemvalue="TestNG.TestIntegrationFlow2" />
         <item itemvalue="TestNG.TestIntegrationSample" />
         <item itemvalue="TestNG.D:/practice/APIAutomation/APIAutomationFramworkATB9x/testng-prod.xml" />
       </list>
@@ -186,7 +186,7 @@
       <option name="presentableId" value="Default" />
       <updated>1734499257794</updated>
       <workItem from="1737771568036" duration="1715000" />
-      <workItem from="1737975532685" duration="9083000" />
+      <workItem from="1737975532685" duration="12849000" />
     </task>
     <task id="LOCAL-00001" summary="18th APITesting Framework">
       <option name="closed" value="true" />
@@ -284,7 +284,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738056929363</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="27th 2025 APITesting Framework">
+      <option name="closed" value="true" />
+      <created>1738057205555</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1738057205555</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
